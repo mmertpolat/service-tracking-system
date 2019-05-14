@@ -38,7 +38,6 @@ if(isset($_POST['kaydet'])){
 	} else {
 	    echo "Hata: " . $sql . "<br>" . $db->error;
 	}
-	//birazda mysqliöğrenmişoluyorsun  acukta oop :D
 
 }
 ?>
