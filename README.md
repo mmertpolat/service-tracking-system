@@ -1,6 +1,6 @@
 ![Main Splash](https://repository-images.githubusercontent.com/186533069/e3cd9980-760f-11e9-9d0a-f330309e7a86)
-![Listing-Services-Page](https://i.hizliresim.com/zj83Rg.png)
-![Service-Tracking-Page](https://i.hizliresim.com/WqB02E.png)
+![Listing-Services-Page](http://i.hizliresim.com/zj83Rg.png)
+![Service-Tracking-Page](http://i.hizliresim.com/WqB02E.png)
 
 # Service Tracking System
 
