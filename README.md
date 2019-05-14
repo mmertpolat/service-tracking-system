@@ -8,7 +8,7 @@ Project coded in PHP. Just copy the project files to the your hosting or server.
 
 ### Prerequisites
 
-PHP 5.4 or newer
+PHP 5.4 or newer.
 
 ### Installing
 
