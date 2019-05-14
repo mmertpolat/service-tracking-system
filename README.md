@@ -1,4 +1,5 @@
 ![Main Splash](https://repository-images.githubusercontent.com/186533069/e3cd9980-760f-11e9-9d0a-f330309e7a86)
+<img align="center" src="https://repository-images.githubusercontent.com/186533069/e3cd9980-760f-11e9-9d0a-f330309e7a86" alt="Splash">
 
 # Service Tracking System
 
