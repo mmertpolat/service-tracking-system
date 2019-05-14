@@ -1,4 +1,4 @@
-![Main Splash](https://repository-images.githubusercontent.com/186533069/e3cd9980-760f-11e9-9d0a-f330309e7a86)
+![Main Splash](https://raw.githubusercontent.com/mrtplt024/service-tracking-system/master/1.png)
 ![Listing-Services-Page](http://i.hizliresim.com/zj83Rg.png)
 ![Service-Tracking-Page](http://i.hizliresim.com/WqB02E.png)
 
