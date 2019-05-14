@@ -16,7 +16,7 @@ PHP 5.4 or newer.
 
 ### Installing
 
-Edit config.php in main directory. Then visit /admin folder.
+Edit config.php in main directory. Then visit /admin directory link.
 
 ```
 Admin Username: admin
