@@ -16,7 +16,8 @@ PHP 5.4 or newer.
 
 ### Installing
 
-Edit config.php in main directory. Then visit /admin directory link.
+- Create a new database and import "backup.sql" to your database.
+- Edit config.php in main directory. Then visit /admin directory link.
 
 ```
 Admin Username: admin
