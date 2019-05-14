@@ -1,6 +1,6 @@
 ![Main Splash](https://raw.githubusercontent.com/mrtplt024/service-tracking-system/master/1.png)
-![Listing-Services-Page](http://i.hizliresim.com/zj83Rg.png)
-![Service-Tracking-Page](http://i.hizliresim.com/WqB02E.png)
+![Listing-Services-Page](https://raw.githubusercontent.com/mrtplt024/service-tracking-system/master/2.png)
+![Service-Tracking-Page](https://raw.githubusercontent.com/mrtplt024/service-tracking-system/master/3.png)
 
 # Service Tracking System
 
