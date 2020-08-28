@@ -1,7 +1,3 @@
-![Main Splash](https://raw.githubusercontent.com/mrtplt024/service-tracking-system/master/1.png)
-![Listing-Services-Page](https://raw.githubusercontent.com/mrtplt024/service-tracking-system/master/2.png)
-![Service-Tracking-Page](https://raw.githubusercontent.com/mrtplt024/service-tracking-system/master/3.png)
-
 # Service Tracking System
 
 Would you like to provide the service tracking system to your customers? Simple, easy and fast. Just like the cargo tracking system.
